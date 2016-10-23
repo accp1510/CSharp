@@ -1,0 +1,5 @@
+c:\documents and settings\губин_н\мои документы\visual studio 2010\Projects\Lek5\Lek5\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\губин_н\мои документы\visual studio 2010\Projects\Lek5\Lek5\bin\Debug\Lek5.exe
+c:\documents and settings\губин_н\мои документы\visual studio 2010\Projects\Lek5\Lek5\bin\Debug\Lek5.pdb
+c:\documents and settings\губин_н\мои документы\visual studio 2010\Projects\Lek5\Lek5\obj\x86\Debug\Lek5.exe
+c:\documents and settings\губин_н\мои документы\visual studio 2010\Projects\Lek5\Lek5\obj\x86\Debug\Lek5.pdb

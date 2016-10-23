@@ -1,0 +1,6 @@
+C:\Documents and Settings\Губин_Н\Мои документы\Visual Studio 2010\Projects\Lek12\GCTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Губин_Н\Мои документы\Visual Studio 2010\Projects\Lek12\GCTest\bin\Debug\GCTest.exe
+C:\Documents and Settings\Губин_Н\Мои документы\Visual Studio 2010\Projects\Lek12\GCTest\bin\Debug\GCTest.pdb
+C:\Documents and Settings\Губин_Н\Мои документы\Visual Studio 2010\Projects\Lek12\GCTest\obj\x86\Debug\GCTest.exe
+C:\Documents and Settings\Губин_Н\Мои документы\Visual Studio 2010\Projects\Lek12\GCTest\obj\x86\Debug\GCTest.pdb
+C:\Documents and Settings\Губин_Н\Мои документы\Visual Studio 2010\Projects\Lek12\GCTest\bin\Debug\TestBuild.dll

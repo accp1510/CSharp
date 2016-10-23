@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="d9e0eb92-e895-4f42-9942-41c66698a074" name="Губин_Н@SRV-VS2010 2016-04-05 19:55:37" runUser="APTECH\Губин_Н" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Локальные" id="172d4a0d-bcf3-4a98-81c5-30025a5fc096">
+    <Description>Это - параметры по умолчанию для локального тестового запуска.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Губин_Н_SRV-VS2010 2016-04-05 19_55_37">
+      <DeploymentItem filename="c:\documents and settings\губин_н\мои документы\visual studio 2010\Projects\Lek13\Lek13\bin\Debug\Lek13.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2016-04-05T19:55:37.7409697+03:00" queuing="2016-04-05T19:55:39.0378613+03:00" start="2016-04-05T19:55:39.1159873+03:00" finish="2016-04-05T19:55:39.7722457+03:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestMethod1" storage="c:\documents and settings\губин_н\мои документы\visual studio 2010\projects\lek13\testproject\bin\debug\testproject.dll" id="24e109b5-ebac-7154-c0d0-91db5c99399f">
+      <Execution id="96dafe2a-2b0a-4862-899f-aebac49c686f" />
+      <TestMethod codeBase="c:/documents and settings/губин_н/мои документы/visual studio 2010/Projects/Lek13/TestProject/bin/Debug/TestProject.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject.UnitTest1, TestProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod1" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Отсутствующие в списке результаты" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="Все загруженные результаты" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="24e109b5-ebac-7154-c0d0-91db5c99399f" executionId="96dafe2a-2b0a-4862-899f-aebac49c686f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="96dafe2a-2b0a-4862-899f-aebac49c686f" testId="24e109b5-ebac-7154-c0d0-91db5c99399f" testName="TestMethod1" computerName="SRV-VS2010" duration="00:00:00.0933842" startTime="2016-04-05T19:55:39.1159873+03:00" endTime="2016-04-05T19:55:39.6784945+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="96dafe2a-2b0a-4862-899f-aebac49c686f">
+      <Output>
+        <ErrorInfo>
+          <Message>Ошибка в Assert.IsNull. </Message>
+          <StackTrace>   в TestProject.UnitTest1.TestMethod1() в c:\documents and settings\губин_н\мои документы\visual studio 2010\Projects\Lek13\TestProject\UnitTest1.cs:строка 18
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

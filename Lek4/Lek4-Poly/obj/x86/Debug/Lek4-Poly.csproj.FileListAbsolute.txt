@@ -1,0 +1,5 @@
+c:\documents and settings\губин_н\мои документы\visual studio 2010\Projects\Lek4\Lek4-Poly\bin\Debug\Lek4-Poly.exe
+c:\documents and settings\губин_н\мои документы\visual studio 2010\Projects\Lek4\Lek4-Poly\bin\Debug\Lek4-Poly.pdb
+c:\documents and settings\губин_н\мои документы\visual studio 2010\Projects\Lek4\Lek4-Poly\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\губин_н\мои документы\visual studio 2010\Projects\Lek4\Lek4-Poly\obj\x86\Debug\Lek4-Poly.exe
+c:\documents and settings\губин_н\мои документы\visual studio 2010\Projects\Lek4\Lek4-Poly\obj\x86\Debug\Lek4-Poly.pdb

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="98de4489-e1be-4efa-a6da-1afb4616387f" name="Губин_Н@SRV-VS2010 2016-04-05 19:57:10" runUser="APTECH\Губин_Н" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Локальные" id="172d4a0d-bcf3-4a98-81c5-30025a5fc096">
+    <Description>Это - параметры по умолчанию для локального тестового запуска.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Губин_Н_SRV-VS2010 2016-04-05 19_57_10">
+      <DeploymentItem filename="c:\documents and settings\губин_н\мои документы\visual studio 2010\Projects\Lek13\Lek13\bin\Debug\Lek13.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2016-04-05T19:57:10.9767823+03:00" queuing="2016-04-05T19:57:11.0236576+03:00" start="2016-04-05T19:57:11.0236576+03:00" finish="2016-04-05T19:57:11.3517847+03:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestKorni" storage="c:\documents and settings\губин_н\мои документы\visual studio 2010\projects\lek13\testproject\bin\debug\testproject.dll" id="9a17c6b5-cd68-6509-78dd-a8112636d9da">
+      <Execution id="8a3d5c1f-13b0-4bad-ae6a-990a42256aef" />
+      <TestMethod codeBase="c:/documents and settings/губин_н/мои документы/visual studio 2010/Projects/Lek13/TestProject/bin/Debug/TestProject.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject.UnitTest1, TestProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestKorni" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Отсутствующие в списке результаты" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="Все загруженные результаты" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="9a17c6b5-cd68-6509-78dd-a8112636d9da" executionId="8a3d5c1f-13b0-4bad-ae6a-990a42256aef" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="8a3d5c1f-13b0-4bad-ae6a-990a42256aef" testId="9a17c6b5-cd68-6509-78dd-a8112636d9da" testName="TestKorni" computerName="SRV-VS2010" duration="00:00:00.0422746" startTime="2016-04-05T19:57:11.0236576+03:00" endTime="2016-04-05T19:57:11.3361596+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8a3d5c1f-13b0-4bad-ae6a-990a42256aef">
+      <Output>
+        <ErrorInfo>
+          <Message>Ошибка в Assert.AreEqual. Ожидается: &lt;6&gt;. Фактически: &lt;2&gt;. </Message>
+          <StackTrace>   в TestProject.UnitTest1.TestKorni() в c:\documents and settings\губин_н\мои документы\visual studio 2010\Projects\Lek13\TestProject\UnitTest1.cs:строка 26
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

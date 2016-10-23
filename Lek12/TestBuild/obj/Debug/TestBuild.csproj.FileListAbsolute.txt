@@ -1,0 +1,5 @@
+C:\Documents and Settings\Губин_Н\Мои документы\Visual Studio 2010\Projects\Lek12\TestBuild\bin\Debug\TestBuild.dll
+C:\Documents and Settings\Губин_Н\Мои документы\Visual Studio 2010\Projects\Lek12\TestBuild\bin\Debug\TestBuild.pdb
+C:\Documents and Settings\Губин_Н\Мои документы\Visual Studio 2010\Projects\Lek12\TestBuild\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Губин_Н\Мои документы\Visual Studio 2010\Projects\Lek12\TestBuild\obj\Debug\TestBuild.dll
+C:\Documents and Settings\Губин_Н\Мои документы\Visual Studio 2010\Projects\Lek12\TestBuild\obj\Debug\TestBuild.pdb

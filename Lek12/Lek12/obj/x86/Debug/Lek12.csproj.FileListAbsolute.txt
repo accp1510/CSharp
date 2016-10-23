@@ -1,0 +1,12 @@
+C:\Documents and Settings\Губин_Н\Мои документы\Visual Studio 2010\Projects\Lek12\Lek12\obj\x86\Debug\Lek11.exe
+C:\Documents and Settings\Губин_Н\Мои документы\Visual Studio 2010\Projects\Lek12\Lek12\obj\x86\Debug\Lek11.pdb
+C:\Documents and Settings\Губин_Н\Мои документы\Visual Studio 2010\Projects\Lek12\Lek12\bin\Debug\Assets\round.png
+C:\Documents and Settings\Губин_Н\Мои документы\Visual Studio 2010\Projects\Lek12\Lek12\bin\Debug\Assets\two.png
+C:\Documents and Settings\Губин_Н\Мои документы\Visual Studio 2010\Projects\Lek12\Lek12\bin\Debug\Lek11.exe
+C:\Documents and Settings\Губин_Н\Мои документы\Visual Studio 2010\Projects\Lek12\Lek12\bin\Debug\Lek11.pdb
+C:\Documents and Settings\Губин_Н\Мои документы\Visual Studio 2010\Projects\Lek12\Lek12\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Губин_Н\Мои документы\Visual Studio 2010\Projects\Lek12\Lek12\obj\x86\Debug\Lek11.Form1.resources
+C:\Documents and Settings\Губин_Н\Мои документы\Visual Studio 2010\Projects\Lek12\Lek12\obj\x86\Debug\Lek11.Properties.Resources.resources
+C:\Documents and Settings\Губин_Н\Мои документы\Visual Studio 2010\Projects\Lek12\Lek12\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Губин_Н\Мои документы\Visual Studio 2010\Projects\Lek12\Lek12\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Губин_Н\Мои документы\Visual Studio 2010\Projects\Lek12\Lek12\bin\Debug\Assets\preview.jpg

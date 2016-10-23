@@ -1,0 +1,5 @@
+c:\documents and settings\губин_н\мои документы\visual studio 2010\Projects\Lek8\Lek8DelEvents\bin\Debug\Lek8DelEvents.exe
+c:\documents and settings\губин_н\мои документы\visual studio 2010\Projects\Lek8\Lek8DelEvents\bin\Debug\Lek8DelEvents.pdb
+c:\documents and settings\губин_н\мои документы\visual studio 2010\Projects\Lek8\Lek8DelEvents\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\губин_н\мои документы\visual studio 2010\Projects\Lek8\Lek8DelEvents\obj\x86\Debug\Lek8DelEvents.exe
+c:\documents and settings\губин_н\мои документы\visual studio 2010\Projects\Lek8\Lek8DelEvents\obj\x86\Debug\Lek8DelEvents.pdb

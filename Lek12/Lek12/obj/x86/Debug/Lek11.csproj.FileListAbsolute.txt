@@ -1,0 +1,14 @@
+c:\documents and settings\губин_н\мои документы\visual studio 2010\Projects\Lek11\Lek11\bin\Debug\Lek11.exe
+c:\documents and settings\губин_н\мои документы\visual studio 2010\Projects\Lek11\Lek11\bin\Debug\Lek11.pdb
+c:\documents and settings\губин_н\мои документы\visual studio 2010\Projects\Lek11\Lek11\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\губин_н\мои документы\visual studio 2010\Projects\Lek11\Lek11\obj\x86\Debug\Lek11.Properties.Resources.resources
+c:\documents and settings\губин_н\мои документы\visual studio 2010\Projects\Lek11\Lek11\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\губин_н\мои документы\visual studio 2010\Projects\Lek11\Lek11\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\губин_н\мои документы\visual studio 2010\Projects\Lek11\Lek11\obj\x86\Debug\Lek11.exe
+c:\documents and settings\губин_н\мои документы\visual studio 2010\Projects\Lek11\Lek11\obj\x86\Debug\Lek11.pdb
+c:\documents and settings\губин_н\мои документы\visual studio 2010\Projects\Lek11\Lek11\obj\x86\Debug\Lek11.Form1.resources
+c:\documents and settings\губин_н\мои документы\visual studio 2010\Projects\Lek11\Lek11\bin\Debug\Assets\preview.jpg
+c:\documents and settings\губин_н\мои документы\visual studio 2010\Projects\Lek11\Lek11\bin\Debug\Assets\round.png
+c:\documents and settings\губин_н\мои документы\visual studio 2010\Projects\Lek11\Lek11\bin\Debug\Assets\two.png
+C:\Documents and Settings\Губин_Н\Мои документы\Visual Studio 2010\Projects\Lek12\Lek11\obj\x86\Debug\Lek11.exe
+C:\Documents and Settings\Губин_Н\Мои документы\Visual Studio 2010\Projects\Lek12\Lek11\obj\x86\Debug\Lek11.pdb

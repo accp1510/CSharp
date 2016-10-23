@@ -1,0 +1,9 @@
+c:\users\gubin\documents\visual studio 2013\Projects\Lek3\Lek3\bin\Debug\Lek3.exe.config
+c:\users\gubin\documents\visual studio 2013\Projects\Lek3\Lek3\bin\Debug\Lek3.exe
+c:\users\gubin\documents\visual studio 2013\Projects\Lek3\Lek3\bin\Debug\Lek3.pdb
+c:\users\gubin\documents\visual studio 2013\Projects\Lek3\Lek3\obj\Debug\Lek3.csprojResolveAssemblyReference.cache
+c:\users\gubin\documents\visual studio 2013\Projects\Lek3\Lek3\obj\Debug\Lek3.exe
+c:\users\gubin\documents\visual studio 2013\Projects\Lek3\Lek3\obj\Debug\Lek3.pdb
+C:\Users\messa_000\Desktop\C#Edu\1_Лекции\Edu_3\Lek3\bin\Debug\Lek3.exe.config
+C:\Users\messa_000\Desktop\C#Edu\1_Лекции\Edu_3\Lek3\obj\Debug\Lek3.exe
+C:\Users\messa_000\Desktop\C#Edu\1_Лекции\Edu_3\Lek3\obj\Debug\Lek3.pdb

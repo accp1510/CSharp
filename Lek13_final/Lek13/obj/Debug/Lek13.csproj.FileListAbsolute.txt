@@ -1,0 +1,5 @@
+c:\documents and settings\губин_н\мои документы\visual studio 2010\Projects\Lek13\Lek13\bin\Debug\Lek13.dll
+c:\documents and settings\губин_н\мои документы\visual studio 2010\Projects\Lek13\Lek13\bin\Debug\Lek13.pdb
+c:\documents and settings\губин_н\мои документы\visual studio 2010\Projects\Lek13\Lek13\obj\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\губин_н\мои документы\visual studio 2010\Projects\Lek13\Lek13\obj\Debug\Lek13.dll
+c:\documents and settings\губин_н\мои документы\visual studio 2010\Projects\Lek13\Lek13\obj\Debug\Lek13.pdb

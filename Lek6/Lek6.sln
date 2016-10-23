@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lek61", "Lek61\Lek61.csproj", "{F5E6B3FA-E414-4B5F-BEF6-58627BBFD9EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApplication1", "WpfApplication1\WpfApplication1.csproj", "{CE07351F-760C-4B6A-B104-8D05C1F912D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5E6B3FA-E414-4B5F-BEF6-58627BBFD9EA}.Debug|x86.ActiveCfg = Debug|x86
+		{F5E6B3FA-E414-4B5F-BEF6-58627BBFD9EA}.Debug|x86.Build.0 = Debug|x86
+		{F5E6B3FA-E414-4B5F-BEF6-58627BBFD9EA}.Release|x86.ActiveCfg = Release|x86
+		{F5E6B3FA-E414-4B5F-BEF6-58627BBFD9EA}.Release|x86.Build.0 = Release|x86
+		{CE07351F-760C-4B6A-B104-8D05C1F912D8}.Debug|x86.ActiveCfg = Debug|x86
+		{CE07351F-760C-4B6A-B104-8D05C1F912D8}.Debug|x86.Build.0 = Debug|x86
+		{CE07351F-760C-4B6A-B104-8D05C1F912D8}.Release|x86.ActiveCfg = Release|x86
+		{CE07351F-760C-4B6A-B104-8D05C1F912D8}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

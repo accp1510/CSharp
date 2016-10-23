@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="93f100f9-78b3-46ba-8c31-b0f8904ed1af" name="Губин_Н@SRV-VS2010 2016-04-05 19:57:37" runUser="APTECH\Губин_Н" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Локальные" id="172d4a0d-bcf3-4a98-81c5-30025a5fc096">
+    <Description>Это - параметры по умолчанию для локального тестового запуска.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Губин_Н_SRV-VS2010 2016-04-05 19_57_37">
+      <DeploymentItem filename="c:\documents and settings\губин_н\мои документы\visual studio 2010\Projects\Lek13\Lek13\bin\Debug\Lek13.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2016-04-05T19:57:37.9144547+03:00" queuing="2016-04-05T19:57:37.9457049+03:00" start="2016-04-05T19:57:37.9613300+03:00" finish="2016-04-05T19:57:38.3050822+03:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="2" executed="2" error="0" failed="2" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestKorni" storage="c:\documents and settings\губин_н\мои документы\visual studio 2010\projects\lek13\testproject\bin\debug\testproject.dll" id="9a17c6b5-cd68-6509-78dd-a8112636d9da">
+      <Execution id="5770905f-1388-4ed7-a8cc-cb879c84fc16" />
+      <TestMethod codeBase="c:/documents and settings/губин_н/мои документы/visual studio 2010/Projects/Lek13/TestProject/bin/Debug/TestProject.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject.UnitTest1, TestProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestKorni" />
+    </UnitTest>
+    <UnitTest name="TestMethod1" storage="c:\documents and settings\губин_н\мои документы\visual studio 2010\projects\lek13\testproject\bin\debug\testproject.dll" id="24e109b5-ebac-7154-c0d0-91db5c99399f">
+      <Execution id="a83a0af6-32ce-4f52-9b1a-9ab39b0fe2fd" />
+      <TestMethod codeBase="c:/documents and settings/губин_н/мои документы/visual studio 2010/Projects/Lek13/TestProject/bin/Debug/TestProject.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject.UnitTest1, TestProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod1" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Отсутствующие в списке результаты" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="Все загруженные результаты" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="24e109b5-ebac-7154-c0d0-91db5c99399f" executionId="a83a0af6-32ce-4f52-9b1a-9ab39b0fe2fd" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9a17c6b5-cd68-6509-78dd-a8112636d9da" executionId="5770905f-1388-4ed7-a8cc-cb879c84fc16" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="a83a0af6-32ce-4f52-9b1a-9ab39b0fe2fd" testId="24e109b5-ebac-7154-c0d0-91db5c99399f" testName="TestMethod1" computerName="SRV-VS2010" duration="00:00:00.0417664" startTime="2016-04-05T19:57:37.9613300+03:00" endTime="2016-04-05T19:57:38.2582069+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a83a0af6-32ce-4f52-9b1a-9ab39b0fe2fd">
+      <Output>
+        <ErrorInfo>
+          <Message>Ошибка в Assert.IsNull. </Message>
+          <StackTrace>   в TestProject.UnitTest1.TestMethod1() в c:\documents and settings\губин_н\мои документы\visual studio 2010\Projects\Lek13\TestProject\UnitTest1.cs:строка 18
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="5770905f-1388-4ed7-a8cc-cb879c84fc16" testId="9a17c6b5-cd68-6509-78dd-a8112636d9da" testName="TestKorni" computerName="SRV-VS2010" duration="00:00:00.0127926" startTime="2016-04-05T19:57:38.2582069+03:00" endTime="2016-04-05T19:57:38.2738320+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5770905f-1388-4ed7-a8cc-cb879c84fc16">
+      <Output>
+        <ErrorInfo>
+          <Message>Метод проверки TestProject.UnitTest1.TestKorni выдал исключение: System.IndexOutOfRangeException: Индекс находился вне границ массива..</Message>
+          <StackTrace>    в TestProject.UnitTest1.TestKorni() в c:\documents and settings\губин_н\мои документы\visual studio 2010\Projects\Lek13\TestProject\UnitTest1.cs:строка 27
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

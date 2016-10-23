@@ -1,0 +1,5 @@
+c:\documents and settings\губин_н\мои документы\visual studio 2010\Projects\Lek6\Lek61\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\губин_н\мои документы\visual studio 2010\Projects\Lek6\Lek61\bin\Debug\Lek61.exe
+c:\documents and settings\губин_н\мои документы\visual studio 2010\Projects\Lek6\Lek61\bin\Debug\Lek61.pdb
+c:\documents and settings\губин_н\мои документы\visual studio 2010\Projects\Lek6\Lek61\obj\x86\Debug\Lek61.exe
+c:\documents and settings\губин_н\мои документы\visual studio 2010\Projects\Lek6\Lek61\obj\x86\Debug\Lek61.pdb
